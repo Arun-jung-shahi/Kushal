@@ -1,0 +1,25 @@
+.register-container{
+    height: 55vh;
+    width: 30vw;
+    background-color:#445D48;
+    /* border: 2px solid black; */
+    margin: 25px auto;
+    border-radius: 20px;
+    text-align: center;
+}
+.input-container{
+padding: 10px;
+}
+
+.input-container input{
+    width: 250px;
+    height: 30px;
+    border-radius: 20px;
+    color:black;
+}
+.input-container button{
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+    color:black;
+}

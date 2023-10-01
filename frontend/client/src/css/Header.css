@@ -1,0 +1,21 @@
+.nav-top{
+    background-color:#001524;
+    box-shadow: 2px 4px 5px #001524;
+}
+
+
+
+.nav-top ul{
+display: flex;
+
+} 
+
+.nav-top ul li{
+    margin: 20px;
+    list-style: none;
+    color: white;
+   
+}
+.link{
+    text-decoration: none;
+}
